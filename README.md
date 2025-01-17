@@ -27,8 +27,8 @@ WebAPI-Dashboards/
 |-- Firebase.html           # HTML page for Firebase integration
 |-- GitHub.js               # Script to interact with GitHub API
 |-- covid.js                # Script for COVID-19 data
-|-- index.html              # HTML page to show Covid data
-|-- index1.html             # HTML page to show weather info
+|-- index.html              # HTML page to show weather info
+|-- index1.html             # HTML page to show covid data
 |-- index3.html             # HTML page to show github repo
 |-- weather.js              # Script for weather data
 ```
