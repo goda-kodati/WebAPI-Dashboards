@@ -6,19 +6,19 @@ WebAPI Dashboards is a project showcasing interactive dashboards and API integra
 ## Features
 1. **GitHub API Integration:**
    - Fetch and display GitHub repository details using `GitHub.js`.
-   - ![GitHub API Example](images/github_info.png)
+   <img src="github_info.png" width="150" height="150" />
 
 2. **Weather Dashboard:**
    - Display real-time weather information using the `weather.js` script.
-   - ![Weather Dashboard](images/weather_info.png)
+   <img src="weather_info.gif" width="150" height="150" />
 
 3. **COVID-19 Data Dashboard:**
    - Fetch and display COVID-19 statistics using `covid.js`.
-   - ![COVID-19 Dashboard](images/covid_info.png)
+   <img src="covid_info.gif" width="150" height="150" />
 
 4. **Firebase CRUD Operations:**
    - Implement basic Create, Read, Update, and Delete firebase functionality using `CrudOperations.js`.
-   - ![CRUD Operations Example](images/crud_operations.png)
+   <img src="crud_operations.gif" width="150" height="150" />
 
 
 ## Project Structure
